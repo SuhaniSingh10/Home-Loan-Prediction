@@ -1,1 +1,1 @@
-# House-Price-Prediction
+# Home-Loan-Prediction
